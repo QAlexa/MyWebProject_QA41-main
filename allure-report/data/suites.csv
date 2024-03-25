@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 25 11:20:08 IST 2024","Mon Mar 25 11:20:20 IST 2024","12038","Suite1","FirefoxTests","tests.PhoneBookTest","tests.PhoneBookTest","loginOfAnExistingUserAddContact","loginOfAnExistingUserAddContact","User already exist. Login and add contact.!"
+"passed","Mon Mar 25 11:20:33 IST 2024","Mon Mar 25 11:20:45 IST 2024","12644","Suite1","ChromeTests","tests.PhoneBookTest","tests.PhoneBookTest","loginOfAnExistingUserAddContact","loginOfAnExistingUserAddContact","User already exist. Login and add contact.!"
